@@ -1,0 +1,18 @@
+{
+  "window.autoDetectColorScheme": true,
+  "terminal.integrated.drawBoldTextInBrightColors": false,
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "workbench.externalBrowser": "",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "cSpell.words": [
+    "dattatray",
+    "jadhav",
+    "masala",
+    "sarthak",
+    "spiderman",
+    "Spidy"
+  ],
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true
+}
